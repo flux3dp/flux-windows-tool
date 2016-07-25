@@ -1,0 +1,27 @@
+c:\users\wedcs\documents\visual studio 2015\Projects\FluxDiscoverDiagnosis\FluxDiscoverDiagnosis\bin\Debug\FluxDiscoverDiagnosis.exe.config
+c:\users\wedcs\documents\visual studio 2015\Projects\FluxDiscoverDiagnosis\FluxDiscoverDiagnosis\bin\Debug\FluxDiscoverDiagnosis.exe
+c:\users\wedcs\documents\visual studio 2015\Projects\FluxDiscoverDiagnosis\FluxDiscoverDiagnosis\bin\Debug\FluxDiscoverDiagnosis.pdb
+c:\users\wedcs\documents\visual studio 2015\Projects\FluxDiscoverDiagnosis\FluxDiscoverDiagnosis\obj\Debug\FluxDiscoverDiagnosis.csprojResolveAssemblyReference.cache
+c:\users\wedcs\documents\visual studio 2015\Projects\FluxDiscoverDiagnosis\FluxDiscoverDiagnosis\obj\Debug\FluxDiscoverDiagnosis.Form1.resources
+c:\users\wedcs\documents\visual studio 2015\Projects\FluxDiscoverDiagnosis\FluxDiscoverDiagnosis\obj\Debug\FluxDiscoverDiagnosis.Properties.Resources.resources
+c:\users\wedcs\documents\visual studio 2015\Projects\FluxDiscoverDiagnosis\FluxDiscoverDiagnosis\obj\Debug\FluxDiscoverDiagnosis.csproj.GenerateResource.Cache
+c:\users\wedcs\documents\visual studio 2015\Projects\FluxDiscoverDiagnosis\FluxDiscoverDiagnosis\obj\Debug\FluxDiscoverDiagnosis.exe
+c:\users\wedcs\documents\visual studio 2015\Projects\FluxDiscoverDiagnosis\FluxDiscoverDiagnosis\obj\Debug\FluxDiscoverDiagnosis.pdb
+C:\Users\wedcs\documents\visual studio 2015\Projects\FluxDiscoverDiagnosis\FluxDiscoverDiagnosis\bin\Debug\FluxDiscoverDiagnosis.exe.manifest
+C:\Users\wedcs\documents\visual studio 2015\Projects\FluxDiscoverDiagnosis\FluxDiscoverDiagnosis\bin\Debug\FluxDiscoverDiagnosis.application
+C:\Users\wedcs\documents\visual studio 2015\Projects\FluxDiscoverDiagnosis\FluxDiscoverDiagnosis\obj\Debug\FluxDiscoverDiagnosis.exe.manifest
+C:\Users\wedcs\documents\visual studio 2015\Projects\FluxDiscoverDiagnosis\FluxDiscoverDiagnosis\obj\Debug\FluxDiscoverDiagnosis.application
+C:\Users\FLUX\Desktop\FluxDiscoverDiagnosis\FluxDiscoverDiagnosis\FluxDiscoverDiagnosis\bin\Debug\FluxDiscoverDiagnosis.exe.config
+C:\Users\FLUX\Desktop\FluxDiscoverDiagnosis\FluxDiscoverDiagnosis\FluxDiscoverDiagnosis\obj\Debug\FluxDiscoverDiagnosis.exe
+C:\Users\FLUX\Desktop\FluxDiscoverDiagnosis\FluxDiscoverDiagnosis\FluxDiscoverDiagnosis\obj\Debug\FluxDiscoverDiagnosis.pdb
+C:\Users\FLUX\Desktop\FluxDiscoverDiagnosis\FluxDiscoverDiagnosis\FluxDiscoverDiagnosis\bin\Debug\FluxDiscoverDiagnosis.exe
+C:\Users\FLUX\Desktop\FluxDiscoverDiagnosis\FluxDiscoverDiagnosis\FluxDiscoverDiagnosis\bin\Debug\FluxDiscoverDiagnosis.pdb
+C:\Users\FLUX\Desktop\FluxDiscoverDiagnosis\FluxDiscoverDiagnosis\FluxDiscoverDiagnosis\obj\Debug\FluxDiscoverDiagnosis.csprojResolveAssemblyReference.cache
+C:\Users\FLUX\Desktop\FluxDiscoverDiagnosis\FluxDiscoverDiagnosis\FluxDiscoverDiagnosis\obj\Debug\FluxDiscoverDiagnosis.Form1.resources
+C:\Users\FLUX\Desktop\FluxDiscoverDiagnosis\FluxDiscoverDiagnosis\FluxDiscoverDiagnosis\obj\Debug\FluxDiscoverDiagnosis.Properties.Resources.resources
+C:\Users\FLUX\Desktop\FluxDiscoverDiagnosis\FluxDiscoverDiagnosis\FluxDiscoverDiagnosis\obj\Debug\FluxDiscoverDiagnosis.csproj.GenerateResource.Cache
+C:\Users\FLUX\Desktop\FluxDiscoverDiagnosis\FluxDiscoverDiagnosis\FluxDiscoverDiagnosis\obj\Debug\FluxDiscoverDiagnosis.ScanForm.resources
+C:\Users\FLUX\Desktop\FluxDiscoverDiagnosis\FluxDiscoverDiagnosis\FluxDiscoverDiagnosis\bin\Debug\websocket-sharp.dll
+C:\Users\FLUX\Desktop\FluxDiscoverDiagnosis\FluxDiscoverDiagnosis\FluxDiscoverDiagnosis\bin\Debug\websocket-sharp.xml
+C:\Users\FLUX\Desktop\FluxDiscoverDiagnosis\FluxDiscoverDiagnosis\FluxDiscoverDiagnosis\bin\Debug\Newtonsoft.Json.dll
+C:\Users\FLUX\Desktop\FluxDiscoverDiagnosis\FluxDiscoverDiagnosis\FluxDiscoverDiagnosis\bin\Debug\Newtonsoft.Json.xml
