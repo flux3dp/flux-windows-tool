@@ -1,0 +1,5 @@
+C:\Users\Simon\Downloads\WinDHCP_0.2b_source\WinDHCPLib\bin\Debug\WinDHCP.Library.dll
+C:\Users\Simon\Downloads\WinDHCP_0.2b_source\WinDHCPLib\bin\Debug\WinDHCP.Library.pdb
+C:\Users\Simon\Downloads\WinDHCP_0.2b_source\WinDHCPLib\obj\Debug\WinDHCP.Library.dll
+C:\Users\Simon\Downloads\WinDHCP_0.2b_source\WinDHCPLib\obj\Debug\WinDHCP.Library.pdb
+C:\Users\Simon\Downloads\WinDHCP_0.2b_source\WinDHCPLib\obj\Debug\WinDHCPLib.csprojResolveAssemblyReference.cache

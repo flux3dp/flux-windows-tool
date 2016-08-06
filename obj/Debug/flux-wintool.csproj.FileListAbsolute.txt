@@ -1,0 +1,17 @@
+C:\Users\Simon\Documents\flux-wintool\bin\Debug\FLUXDeltaConnector.exe.config
+C:\Users\Simon\Documents\flux-wintool\bin\Debug\FLUXDeltaConnector.exe
+C:\Users\Simon\Documents\flux-wintool\bin\Debug\FLUXDeltaConnector.pdb
+C:\Users\Simon\Documents\flux-wintool\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Simon\Documents\flux-wintool\bin\Debug\websocket-sharp.dll
+C:\Users\Simon\Documents\flux-wintool\bin\Debug\WinDHCP.Library.dll
+C:\Users\Simon\Documents\flux-wintool\bin\Debug\WinDHCP.Library.pdb
+C:\Users\Simon\Documents\flux-wintool\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Simon\Documents\flux-wintool\bin\Debug\websocket-sharp.xml
+C:\Users\Simon\Documents\flux-wintool\obj\Debug\flux-wintool.csprojResolveAssemblyReference.cache
+C:\Users\Simon\Documents\flux-wintool\obj\Debug\WinDHCP.BasicInterface.resources
+C:\Users\Simon\Documents\flux-wintool\obj\Debug\WinDHCP.DhcpHost.resources
+C:\Users\Simon\Documents\flux-wintool\obj\Debug\FLUX_DHCP.Properties.Resources.resources
+C:\Users\Simon\Documents\flux-wintool\obj\Debug\WinDHCP.ScanForm.resources
+C:\Users\Simon\Documents\flux-wintool\obj\Debug\flux-wintool.csproj.GenerateResource.Cache
+C:\Users\Simon\Documents\flux-wintool\obj\Debug\FLUXDeltaConnector.exe
+C:\Users\Simon\Documents\flux-wintool\obj\Debug\FLUXDeltaConnector.pdb
